@@ -1,0 +1,20 @@
+package waterPark;
+
+public class Adults {
+
+	private String code;
+	private int gender;
+	private String name;
+	private int age;
+	
+	
+	public Adults(String code, int gender, String name, int age) {
+		super();
+		this.code = code;
+		this.gender = gender;
+		this.name = name;
+		this.age = age;
+	}
+	
+	
+}

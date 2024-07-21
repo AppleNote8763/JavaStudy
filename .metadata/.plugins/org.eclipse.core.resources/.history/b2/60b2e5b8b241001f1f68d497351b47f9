@@ -1,0 +1,23 @@
+package j11_상속;
+
+public class Human extends Animal{
+
+//	public void move() {
+//		System.out.println("동물이 움직입니다.");
+//	}
+	
+	public Human() {
+		System.out.println("Human 객체 생성");
+	}
+	
+	
+	/*
+	 *  오버라이딩: 재정의
+	 */
+	@Override
+	public void move() {
+		
+	}
+	
+	
+}

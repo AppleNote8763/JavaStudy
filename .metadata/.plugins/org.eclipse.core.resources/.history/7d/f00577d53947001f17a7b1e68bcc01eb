@@ -1,0 +1,23 @@
+package waterPark;
+
+public class Kids {
+
+	private String code;
+	private int gender;
+	private String name;
+	private int age;
+	
+	
+	public Kids(String code, int gender, String name, int age) {
+		this.code = code;
+		this.gender = gender;
+		this.name = name;
+		this.age = age;
+	}
+
+	public void redeC() {
+		System.out.println("C 놀이기구를 탑니다.");
+	}
+	
+	
+}

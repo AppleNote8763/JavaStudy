@@ -1,0 +1,13 @@
+package j11_상속.factory;
+
+public class SamsungFactory extends Factory{
+
+	public SamsungFactory(int factoryNumber) {
+		super(factoryNumber);
+	}
+	
+	public void start() {
+		System.out.println("삼성");
+	}
+	
+}

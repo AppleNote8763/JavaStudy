@@ -1,0 +1,13 @@
+package waterPark;
+
+public class Residents {
+
+	public void redeA() {
+		System.out.println("A 놀이기구를 탑니다.");
+	}
+	
+	public void redeB() {
+		System.out.println("B 놀이기구를 탑니다.");
+	}
+	
+}

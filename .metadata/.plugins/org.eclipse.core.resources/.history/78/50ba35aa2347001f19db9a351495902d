@@ -1,0 +1,31 @@
+package j11_상속.factory;
+
+public class FactoryMain2 {
+
+	public static void main(String[] args) {
+
+		/*
+		 *  팩토리 공장배열 만들기(크기: 5)
+		 *  삼성1
+		 *  엘지1
+		 *  삼성2
+		 *  삼성3
+		 *  엘지2
+		 *  
+		 *  모든 공장을 다 가동
+		 *  가동이 끝난 후
+		 *  모든 공장을 다 중지
+		 */
+		
+		SamsungFactory samsungFactory = new SamsungFactory(5);
+		LGFactory lgFactory = new LGFactory(5);
+		
+		String[] factory = new String[5];
+		
+		for(int i = 0; i < 5; i++) {
+			
+		}
+		
+	}
+
+}

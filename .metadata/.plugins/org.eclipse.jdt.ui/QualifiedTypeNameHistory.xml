@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="test.Test.Example"/>
+    <fullyQualifiedTypeName name="J09_클래스.접근지정자.a.TestA_2"/>
+    <fullyQualifiedTypeName name="J09_클래스.접근지정자.b.TestB"/>
+    <fullyQualifiedTypeName name="J09_클래스.접근지정자.student.Student"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="j10_배열.Arrays.TestMethod"/>
+    <fullyQualifiedTypeName name="j10_배열.Arrays.Arrays1"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="j11_상속.Tiger"/>
+    <fullyQualifiedTypeName name="j11_상속.Animal"/>
+    <fullyQualifiedTypeName name="j11_상속.Human"/>
+    <fullyQualifiedTypeName name="j11_상속.factory.Factory"/>
+    <fullyQualifiedTypeName name="j11_상속.factory.LGFactory"/>
+    <fullyQualifiedTypeName name="j11_상속.factory.SamsungFactory"/>
+</qualifiedTypeNameHistroy>

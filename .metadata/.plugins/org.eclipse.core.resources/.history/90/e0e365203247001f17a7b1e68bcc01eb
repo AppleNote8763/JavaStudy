@@ -1,0 +1,16 @@
+package waterParkRide;
+
+public class HumanInformation {
+	boolean gender = true;
+	String name = null;
+	int age = 0;
+	
+	public HumanInformation(boolean gender, String name, int age) {
+		super();
+		this.gender = gender;
+		this.name = name;
+		this.age = age;
+	}
+	
+	
+}

@@ -1,0 +1,10 @@
+package waterPark;
+
+public class Kids {
+
+	private String code;
+	private int gender;
+	private String name;
+	private int age;
+	
+}

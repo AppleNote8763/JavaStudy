@@ -1,0 +1,28 @@
+package j11_상속.factory;
+
+public class FactoryMain4 {
+
+	public static void main(String[] args) {
+		/*
+		 * 공장 배열 만들기
+		 * 
+		 * 삼성1
+		 * 엘지1
+		 * 엘지2
+		 * 엘지3
+		 * 삼성2
+		 * 삼성3
+		 * 
+		 */
+		
+		Factory[] factoryies = {new SamsungFactory(1),
+				new LGFactory(1),
+				new LGFactory(2),
+				new LGFactory(3),
+				new SamsungFactory(2),
+				new SamsungFactory(3),
+				};
+		
+	}
+
+}

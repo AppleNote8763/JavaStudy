@@ -1,0 +1,14 @@
+package waterPark;
+
+public class WaterParkMain2 {
+
+	public static void main(String[] args) {
+		
+		String code;
+		int gender;
+		String name;
+		int age;
+		
+	}
+
+}

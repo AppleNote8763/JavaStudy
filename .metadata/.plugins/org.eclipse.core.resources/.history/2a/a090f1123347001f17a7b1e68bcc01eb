@@ -1,0 +1,25 @@
+package waterParkRide;
+
+import java.util.Scanner;
+
+public class WaterParkRideMain {
+
+	public static void main(String[] args) {
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		int humanCount = 0;
+		
+		System.out.println("캘리포니아");
+		
+		System.out.println("총 인원을 입력하시오");
+		humanCount = scanner.nextInt();
+		HumanInformation[] humanInformation = new HumanInformation[humanCount];
+		
+		for (int i = 0; i < humanCount; i++) {
+			
+		}
+		
+	}
+	
+}
